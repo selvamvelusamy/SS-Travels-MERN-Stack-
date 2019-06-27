@@ -1,0 +1,15 @@
+.border {
+    border-radius: 10px;
+    width: 850px;
+}
+
+img {
+    width:300px;
+    height:340px;
+}
+h4 {
+    margin-bottom:40px;
+}
+.title-width {
+    width:100px;
+}

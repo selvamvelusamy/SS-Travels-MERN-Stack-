@@ -1,0 +1,21 @@
+.black {
+    font-weight: 40px;
+    font-size: 40px;
+}
+.extra {
+    margin-bottom: 20px;
+}
+.mar {
+    margin-bottom:10px;
+}
+.text-center {
+    margin-top:40px;
+}
+.mywidth{
+    width:510px;
+    height:38px;
+    border-radius: 4px;
+    border:1px solid #ccc;
+    color:darkgrey;
+    
+}

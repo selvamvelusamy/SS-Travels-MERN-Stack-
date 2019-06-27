@@ -1,0 +1,22 @@
+.black {
+    font-weight: 40px;
+    font-size: 40px;
+}
+.extra {
+    margin-bottom: 20px;
+}
+.mar {
+    margin-bottom:10px;
+}
+
+.preview {
+    width: 200px;
+    height:200px;
+    border: 2px black solid;
+}
+.enable {
+    display:none;
+}
+.width-first{
+    width:900px;
+}

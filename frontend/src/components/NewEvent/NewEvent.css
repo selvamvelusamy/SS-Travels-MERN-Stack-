@@ -1,0 +1,27 @@
+.Pack {
+    margin: 0 auto;
+    width: 650px;
+}
+.center{
+   margin-left:30px;
+}
+.list-group-item {
+    align-items: center;
+    align-content:center;
+}
+.badge{
+    cursor: pointer;
+}
+.styleTime {
+    height:38px;
+    border-radius: 4px;
+    margin-bottom:10px;
+    border:1px solid #ccc;
+    
+}
+.margin-bottom {
+    margin-left: 8px;
+}
+input[type=checkbox] {
+    width:30px;
+}
