@@ -12,7 +12,7 @@
     "pickerjs": "^1.2.1",
     "react-datepicker": "^2.7.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.2",
+    "react-scripts": "5.0.1",
     "react-time-picker": "^3.5.2",
     "react-toastify": "^5.2.1"
   },
